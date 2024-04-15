@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello 👋
 
 Some information about me:
 
-- 🌱 I’m currently learning HTML, CSS, Javascript, React, Typescript, NodeJS, PHP e SQL.
-- 📫 How to reach me: alemartinsdc@gmail.com
-
+- My skills are Python, Javascript, React, Typescript, PHP,
+  SQL and REST APIs.
+  
+- 📫 How to contact me: alemartinsdc@gmail.com
